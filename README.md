@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Arjun kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coading" with="400px" src="https://www.bing.com/images/search?view=detailV2&ccid=i27cxh84&id=643D65F65F2FCEFB5CBD56B2057125E82A9BA606&thid=OIP.i27cxh84nbqh3COa5YMg1AHaFK&mediaurl=https%3a%2f%2ft4.ftcdn.net%2fjpg%2f03%2f13%2f40%2f45%2f360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg&exph=360&expw=517&q=coding+animation+photo&simid=608015276710900926&FORM=IRPRST&ck=C2AAED122A0439193290813389996229&selectedIndex=16&itb=0&qpvt=coding+animation+photo">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arju1234n&show_icons=true&locale=en" alt="arju1234n" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arju1234n&label=Profile%20views&color=0e75b6&style=flat" alt="arju1234n" /> </p>
+<p><img align="center" src="https://githu<h1 align="center">Hi 👋, I'm Arjun kumar</h1>
+<h3 align="center">A passionate fullstack web developer</h3>
 
+https://www.bing.com/ck/a?!&&p=7ce0a95a87c655b10a58fe60b844661c7424c9fc4d8fe9bcf2624ea252ed2580JmltdHM9MTczOTkyMzIwMA&ptn=3&ver=2&hsh=4&fclid=37159ba9-8bba-6012-07e4-88a18a216132&u=a1L2ltYWdlcy9zZWFyY2g_cT1hbmltYXRlZCUyMGNvZGVyJTIwaW1hZ2UmRk9STT1JUUZSQkEmaWQ9ODYwMjFDRTRFOEQ0MTAwMTYxNjk1NkIyMDU3MTI1RTgyQTlCQTYwNg&ntb=1
 - 💬 Ask me about **development**
 
 - 📫 How to reach me **kumararjun5230@gmail.com**
@@ -17,7 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arju1234n&show_icons=true&locale=en&layout=compact" alt="arju1234n" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arju1234n&show_icons=true&locale=en" alt="arju1234n" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arju1234n&" alt="arju1234n" /></p>
-
+b-readme-streak-stats.herokuapp.com/?user=arju1234n&" alt="arju1234n" /></p>
